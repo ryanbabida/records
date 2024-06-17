@@ -1,0 +1,6 @@
+{
+    "dataFilePath": "records.json",
+    "port": "8000",
+    "audioFilePath": "static/audio",
+    "artworkFilePath": "static/artwork"
+}

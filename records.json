@@ -1,0 +1,1146 @@
+[
+    {
+        "id": 10,
+        "name": "A Love Supreme",
+        "yearOriginal": 1965,
+        "labelOriginal": "Impulse",
+        "year": 2020,
+        "label": null,
+        "artworkPath": "ALoveSupreme.png",
+        "audioPath": "Acknowledgement-Coltrane.mp3",
+        "artist": {
+            "name": "John Coltrane"
+        }
+    },
+    {
+        "id": 12,
+        "name": "Soultrane",
+        "yearOriginal": 1958,
+        "labelOriginal": "Prestige",
+        "year": 2015,
+        "label": "Not Now",
+        "artworkPath": "Soultrane.png",
+        "audioPath": "IWantToTalkAboutYou-Coltrane.mp3",
+        "artist": {
+            "name": "John Coltrane"
+        }
+    },
+    {
+        "id": 28,
+        "name": "The Prisoner",
+        "yearOriginal": 1969,
+        "labelOriginal": "Blue Note",
+        "year": null,
+        "label": null,
+        "artworkPath": "Prisoner.png",
+        "audioPath": "",
+        "artist": {
+            "name": "Herbie Hancock"
+        }
+    },
+    {
+        "id": 36,
+        "name": "New Life",
+        "yearOriginal": 1976,
+        "labelOriginal": "Horizon/A\u0026M",
+        "year": null,
+        "label": null,
+        "artworkPath": "NewLife.png",
+        "audioPath": "",
+        "artist": {
+            "name": "Thad Jones \u0026 Mel Lewis"
+        }
+    },
+    {
+        "id": 41,
+        "name": "Lee-Way",
+        "yearOriginal": 1960,
+        "labelOriginal": "Blue Note",
+        "year": null,
+        "label": null,
+        "artworkPath": "LeeWay.png",
+        "audioPath": "",
+        "artist": {
+            "name": "Lee Morgan"
+        }
+    },
+    {
+        "id": 53,
+        "name": "Spirits Having Flown",
+        "yearOriginal": 1979,
+        "labelOriginal": "RSO/Reprise",
+        "year": null,
+        "label": null,
+        "artworkPath": "SpiritsHaveFlown.png",
+        "audioPath": "TooMuchHeaven-BeeGees.mp3",
+        "artist": {
+            "name": "Bee Gees"
+        }
+    },
+    {
+        "id": 88,
+        "name": "Take Care, Take Care, Take Care",
+        "yearOriginal": 2011,
+        "labelOriginal": "Temporary Residence Limited",
+        "year": null,
+        "label": null,
+        "artworkPath": "TakeCare.png",
+        "audioPath": "HumanQualities-EITS.mp3",
+        "artist": {
+            "name": "Explosions In The Sky"
+        }
+    },
+    {
+        "id": 7,
+        "name": "The Christmas Song",
+        "yearOriginal": 1962,
+        "labelOriginal": "Capitol",
+        "year": 2014,
+        "label": null,
+        "artworkPath": "TheChristmasSong.png",
+        "audioPath": "TheChristmasSong-NatKingCole.mp3",
+        "artist": {
+            "name": "Nat King Cole"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Ballads",
+        "yearOriginal": 1963,
+        "labelOriginal": "Impulse",
+        "year": 2020,
+        "label": null,
+        "artworkPath": "Ballads.png",
+        "audioPath": "IWishIKnew-JohnColtrane.mp3",
+        "artist": {
+            "name": "John Coltrane"
+        }
+    },
+    {
+        "id": 32,
+        "name": "Ready for Freddie",
+        "yearOriginal": 1961,
+        "labelOriginal": "Blue Note",
+        "year": 2021,
+        "label": null,
+        "artworkPath": "ReadyForFreddie.png",
+        "audioPath": "",
+        "artist": {
+            "name": "Freddie Hubbard"
+        }
+    },
+    {
+        "id": 40,
+        "name": "We Get Requests",
+        "yearOriginal": 1965,
+        "labelOriginal": "Verve",
+        "year": null,
+        "label": null,
+        "artworkPath": "WeGetRequests.png",
+        "audioPath": "",
+        "artist": {
+            "name": "Oscar Peterson Trio"
+        }
+    },
+    {
+        "id": 63,
+        "name": "To Pimp A Butterfly",
+        "yearOriginal": 2015,
+        "labelOriginal": "Top Dawg Entertainment",
+        "year": null,
+        "label": null,
+        "artworkPath": "ToPimpAButterfly.png",
+        "audioPath": "TheseWalls-KendrickLamar.png",
+        "artist": {
+            "name": "Kendrick Lamar"
+        }
+    },
+    {
+        "id": 64,
+        "name": "Untitled Remastered",
+        "yearOriginal": 2016,
+        "labelOriginal": "Top Dawg Entertainment",
+        "year": null,
+        "label": null,
+        "artworkPath": "Untitled.png",
+        "audioPath": "Untitled05-KendrickLamar.png",
+        "artist": {
+            "name": "Kendrick Lamar"
+        }
+    },
+    {
+        "id": 74,
+        "name": "Tower of Power",
+        "yearOriginal": 1973,
+        "labelOriginal": "Warner Bros",
+        "year": null,
+        "label": null,
+        "artworkPath": "TowerOfPower.png",
+        "audioPath": "WhatIsHip-TowerOfPower.mp3",
+        "artist": {
+            "name": "Tower of Power"
+        }
+    },
+    {
+        "id": 13,
+        "name": "Blue Train",
+        "yearOriginal": 1958,
+        "labelOriginal": "Blue Note",
+        "year": 2016,
+        "label": "Not Now",
+        "artworkPath": "BlueTrain.png",
+        "audioPath": "",
+        "artist": {
+            "name": "John Coltrane"
+        }
+    },
+    {
+        "id": 18,
+        "name": "Everything I Play Is Funky",
+        "yearOriginal": 1970,
+        "labelOriginal": "Blue Note",
+        "year": null,
+        "label": null,
+        "artworkPath": "EverythingIPlayIsFunky.png",
+        "audioPath": "DonkeyWalk-LouDonaldson.mp3",
+        "artist": {
+            "name": "Lou Donaldson"
+        }
+    },
+    {
+        "id": 82,
+        "name": "Joshua Tree",
+        "yearOriginal": 1987,
+        "labelOriginal": "Island Records",
+        "year": null,
+        "label": null,
+        "artworkPath": "JoshuaTree.png",
+        "audioPath": "WithOrWithoutYou-U2.mp3",
+        "artist": {
+            "name": "U2"
+        }
+    },
+    {
+        "id": 4,
+        "name": "The Best Of Art Blakey and the Jazz Messengers",
+        "yearOriginal": 1989,
+        "labelOriginal": "Blue Note",
+        "year": null,
+        "label": null,
+        "artworkPath": "BestOfArtBlakey.png",
+        "audioPath": "ANightInTunisia-ArtBlakey.mp3",
+        "artist": {
+            "name": "Art Blakey \u0026 the Jazz Messengers"
+        }
+    },
+    {
+        "id": 31,
+        "name": "First Light",
+        "yearOriginal": 1971,
+        "labelOriginal": "CTI",
+        "year": null,
+        "label": null,
+        "artworkPath": "FirstLight.png",
+        "audioPath": "",
+        "artist": {
+            "name": "Freddie Hubbard"
+        }
+    },
+    {
+        "id": 39,
+        "name": "Road Song",
+        "yearOriginal": 1968,
+        "labelOriginal": "A\u0026M",
+        "year": null,
+        "label": null,
+        "artworkPath": "RoadSong.png",
+        "audioPath": "",
+        "artist": {
+            "name": "Wes Montgomery"
+        }
+    },
+    {
+        "id": 46,
+        "name": "Carmel",
+        "yearOriginal": 1979,
+        "labelOriginal": "MCA",
+        "year": null,
+        "label": null,
+        "artworkPath": "Carmel.png",
+        "audioPath": "",
+        "artist": {
+            "name": "Joe Sample"
+        }
+    },
+    {
+        "id": 61,
+        "name": "What’s Going On",
+        "yearOriginal": 1971,
+        "labelOriginal": "Tamla",
+        "year": null,
+        "label": null,
+        "artworkPath": "WhatsGoingOn.png",
+        "audioPath": "MercyMercyMe-MarvinGaye.mp3",
+        "artist": {
+            "name": "Marvin Gaye"
+        }
+    },
+    {
+        "id": 76,
+        "name": "Talking Book",
+        "yearOriginal": 1972,
+        "labelOriginal": "Tamla",
+        "year": null,
+        "label": null,
+        "artworkPath": "TalkingBook.png",
+        "audioPath": "YouAreTheSunshineOfMyLife-StevieWonder.mp3",
+        "artist": {
+            "name": "Stevie Wonder"
+        }
+    },
+    {
+        "id": 81,
+        "name": "Songs from the Big Chair",
+        "yearOriginal": 1985,
+        "labelOriginal": "Phonogram Records",
+        "year": null,
+        "label": null,
+        "artworkPath": "SongsFromTheBigChair.png",
+        "audioPath": "EverybodyWantsToRuleTheWorld-TearsForFears.mp3",
+        "artist": {
+            "name": "Tears For Fears"
+        }
+    },
+    {
+        "id": 38,
+        "name": "Soul Station",
+        "yearOriginal": 1960,
+        "labelOriginal": "Blue Note",
+        "year": 2021,
+        "label": null,
+        "artworkPath": "SoulStation.jpeg",
+        "audioPath": "Remember-HankMobley.mp3",
+        "artist": {
+            "name": "Hank Mobley"
+        }
+    },
+    {
+        "id": 51,
+        "name": "The Real McCoy",
+        "yearOriginal": 1966,
+        "labelOriginal": "Blue Note",
+        "year": 2020,
+        "label": null,
+        "artworkPath": "TheRealMcCoy.png",
+        "audioPath": "",
+        "artist": {
+            "name": "McCoy Tyner"
+        }
+    },
+    {
+        "id": 67,
+        "name": "Thriller",
+        "yearOriginal": 1982,
+        "labelOriginal": "Epic",
+        "year": null,
+        "label": null,
+        "artworkPath": "Thriller.png",
+        "audioPath": "PYT-MichaelJackson.mp3",
+        "artist": {
+            "name": "Michael Jackson"
+        }
+    },
+    {
+        "id": 9,
+        "name": "John Coltrane and Johnny Hartman",
+        "yearOriginal": 1963,
+        "labelOriginal": "Impulse",
+        "year": 2022,
+        "label": null,
+        "artworkPath": "ColtraneHartman.png",
+        "audioPath": "TheySayItsWonderful-ColtraneHartman.mp3",
+        "artist": {
+            "name": "John Coltrane and Johnny Hartman"
+        }
+    },
+    {
+        "id": 20,
+        "name": "Moon Beams",
+        "yearOriginal": 1962,
+        "labelOriginal": "Riverside",
+        "year": 2013,
+        "label": "Waxtime",
+        "artworkPath": "MoonBeams.png",
+        "audioPath": "VeryEarly-BillEvans.mp3",
+        "artist": {
+            "name": "Bill Evans"
+        }
+    },
+    {
+        "id": 34,
+        "name": "Dialogue",
+        "yearOriginal": 1965,
+        "labelOriginal": "Blue Note",
+        "year": null,
+        "label": null,
+        "artworkPath": "Dialogue.png",
+        "audioPath": "",
+        "artist": {
+            "name": "Bobby Hutcherson"
+        }
+    },
+    {
+        "id": 49,
+        "name": "Sinatra Trilogy",
+        "yearOriginal": 1980,
+        "labelOriginal": "Warner Bros",
+        "year": null,
+        "label": null,
+        "artworkPath": "SinatraTrilogy.png",
+        "audioPath": "",
+        "artist": {
+            "name": "Frank Sinatra"
+        }
+    },
+    {
+        "id": 52,
+        "name": "Winelight",
+        "yearOriginal": 1980,
+        "labelOriginal": "Elektra",
+        "year": null,
+        "label": null,
+        "artworkPath": "Winelight.png",
+        "audioPath": "",
+        "artist": {
+            "name": "Grover Washington Jr."
+        }
+    },
+    {
+        "id": 56,
+        "name": "Gratitude",
+        "yearOriginal": 1975,
+        "labelOriginal": "Columbia",
+        "year": null,
+        "label": null,
+        "artworkPath": "Gratitude.png",
+        "audioPath": "CantHideLove-EarthWindAndFire.mp3",
+        "artist": {
+            "name": "Earth Wind \u0026 Fire"
+        }
+    },
+    {
+        "id": 65,
+        "name": "All ’n All",
+        "yearOriginal": 1977,
+        "labelOriginal": "Columbia",
+        "year": null,
+        "label": null,
+        "artworkPath": "AllnAll.png",
+        "audioPath": "Fantasy-EarthWindAndFire.mp3",
+        "artist": {
+            "name": "Earth Wind \u0026 Fire"
+        }
+    },
+    {
+        "id": 83,
+        "name": "Frontiers",
+        "yearOriginal": 1983,
+        "labelOriginal": "Columbia",
+        "year": null,
+        "label": null,
+        "artworkPath": "Frontiers.png",
+        "audioPath": "Faithfully-Journey.mp3",
+        "artist": {
+            "name": "Journey"
+        }
+    },
+    {
+        "id": 86,
+        "name": "All of a Sudden I Miss Everyone",
+        "yearOriginal": 2007,
+        "labelOriginal": "Temporary Residence Limited",
+        "year": null,
+        "label": null,
+        "artworkPath": "AllOfASuddenIMissEveryone.png",
+        "audioPath": "CatastropheAndTheCure-EITS.mp3",
+        "artist": {
+            "name": "Explosions In The Sky"
+        }
+    },
+    {
+        "id": 17,
+        "name": "Seven Steps to Heaven",
+        "yearOriginal": 1963,
+        "labelOriginal": "Columbia",
+        "year": 1963,
+        "label": null,
+        "artworkPath": "SevenStepsToHeaven.png",
+        "audioPath": "Joshua-MilesDavis.mp3",
+        "artist": {
+            "name": "Miles Davis"
+        }
+    },
+    {
+        "id": 22,
+        "name": "Erroll Garner Plays Misty",
+        "yearOriginal": 1974,
+        "labelOriginal": "Mercury",
+        "year": null,
+        "label": null,
+        "artworkPath": "PlaysMisty.png",
+        "audioPath": "Misty-ErrollGarner.mp3",
+        "artist": {
+            "name": "Erroll Garner"
+        }
+    },
+    {
+        "id": 25,
+        "name": "Canvas",
+        "yearOriginal": 2005,
+        "labelOriginal": "Blue Note",
+        "year": null,
+        "label": null,
+        "artworkPath": "Canvas.png",
+        "audioPath": "NorthPortland-RobertGlasper.mp3",
+        "artist": {
+            "name": "Robert Glasper"
+        }
+    },
+    {
+        "id": 42,
+        "name": "Cornbread",
+        "yearOriginal": 1967,
+        "labelOriginal": "Blue Note",
+        "year": null,
+        "label": null,
+        "artworkPath": "Cornbread.png",
+        "audioPath": "Ceora-LeeMorgan.mp3",
+        "artist": {
+            "name": "Lee Morgan"
+        }
+    },
+    {
+        "id": 58,
+        "name": "I Am",
+        "yearOriginal": 1979,
+        "labelOriginal": "ARC/Columbia",
+        "year": null,
+        "label": null,
+        "artworkPath": "IAm.png",
+        "audioPath": "AfterTheLoveHasGoneEarthWindAndFire.mp3",
+        "artist": {
+            "name": "Earth Wind \u0026 Fire"
+        }
+    },
+    {
+        "id": 66,
+        "name": "Off The Wall",
+        "yearOriginal": 1979,
+        "labelOriginal": "Epic",
+        "year": null,
+        "label": null,
+        "artworkPath": "OffTheWall.png",
+        "audioPath": "ICantHelpIt-MichaelJackson.mp3",
+        "artist": {
+            "name": "Michael Jackson"
+        }
+    },
+    {
+        "id": 80,
+        "name": "Phantoms",
+        "yearOriginal": 2005,
+        "labelOriginal": "Columbia",
+        "year": null,
+        "label": null,
+        "artworkPath": "Phantoms.png",
+        "audioPath": "SoContagious-Acceptance.mp3",
+        "artist": {
+            "name": "Acceptance"
+        }
+    },
+    {
+        "id": 24,
+        "name": "Astrud Gilberto Now",
+        "yearOriginal": 1972,
+        "labelOriginal": "Perception",
+        "year": null,
+        "label": null,
+        "artworkPath": "AstrudGilbertoNow.png",
+        "audioPath": "",
+        "artist": {
+            "name": "Astrud Gilberto"
+        }
+    },
+    {
+        "id": 30,
+        "name": "Page One",
+        "yearOriginal": 1963,
+        "labelOriginal": "Blue Note",
+        "year": 2021,
+        "label": null,
+        "artworkPath": "PageOne.png",
+        "audioPath": "",
+        "artist": {
+            "name": "Joe Henderson"
+        }
+    },
+    {
+        "id": 43,
+        "name": "The Sidewinder",
+        "yearOriginal": 1964,
+        "labelOriginal": "Blue Note",
+        "year": 1981,
+        "label": "Pacific Jazz",
+        "artworkPath": "Sidewinder.png",
+        "audioPath": "",
+        "artist": {
+            "name": "Lee Morgan"
+        }
+    },
+    {
+        "id": 47,
+        "name": "The Soothsayer",
+        "yearOriginal": 1965,
+        "labelOriginal": "Blue Note",
+        "year": null,
+        "label": null,
+        "artworkPath": "Soothsayer.png",
+        "audioPath": "",
+        "artist": {
+            "name": "Wayne Shorter"
+        }
+    },
+    {
+        "id": 54,
+        "name": "Saturday Night Fever",
+        "yearOriginal": 1977,
+        "labelOriginal": "Paramount Pictures",
+        "year": null,
+        "label": null,
+        "artworkPath": "SaturdayNightFever.png",
+        "audioPath": "HowDeepIsYourLove-BeeGees.mp3",
+        "artist": {
+            "name": "Bee Gees"
+        }
+    },
+    {
+        "id": 57,
+        "name": "The Best of Earth Wind \u0026 Fire Vol. 1",
+        "yearOriginal": 1978,
+        "labelOriginal": "Columbia",
+        "year": null,
+        "label": null,
+        "artworkPath": "TheBestOfEarthWindAndFireV1.png",
+        "audioPath": "Reasons-EarthWindAndFire.mp3",
+        "artist": {
+            "name": "Earth Wind \u0026 Fire"
+        }
+    },
+    {
+        "id": 1,
+        "name": "Soul",
+        "yearOriginal": 2020,
+        "labelOriginal": "Disney Pixar",
+        "year": null,
+        "label": null,
+        "artworkPath": "Soul.png",
+        "audioPath": "CelestialSpacesInBlue-JonBatiste.mp3",
+        "artist": {
+            "name": "Jon Batiste"
+        }
+    },
+    {
+        "id": 11,
+        "name": "My Favorite Things",
+        "yearOriginal": 1961,
+        "labelOriginal": "Atlantic",
+        "year": 2021,
+        "label": "Century Masterworks",
+        "artworkPath": "MyFavoriteThings.png",
+        "audioPath": "MyFavoriteThings-Coltrane.mp3",
+        "artist": {
+            "name": "John Coltrane"
+        }
+    },
+    {
+        "id": 21,
+        "name": "Vol. 2 The Sundown Sessions",
+        "yearOriginal": 1987,
+        "labelOriginal": "Fantasy",
+        "year": null,
+        "label": null,
+        "artworkPath": "SundownSessions.png",
+        "audioPath": "",
+        "artist": {
+            "name": "Terry Gibbs Dream Band"
+        }
+    },
+    {
+        "id": 26,
+        "name": "Double Booked",
+        "yearOriginal": 2009,
+        "labelOriginal": "Blue Note",
+        "year": 2015,
+        "label": null,
+        "artworkPath": "DoubleBooked.png",
+        "audioPath": "ForYou-RobertGlasper.mp3",
+        "artist": {
+            "name": "Robert Glasper"
+        }
+    },
+    {
+        "id": 85,
+        "name": "The Earth Is Not A Cold Dark Place",
+        "yearOriginal": 2003,
+        "labelOriginal": "Temporary Residence Limited",
+        "year": null,
+        "label": null,
+        "artworkPath": "TheEarthIsNotAColdDarkPlace.png",
+        "audioPath": "TheOnlyMomentWeWereAlone-EITS.mp3",
+        "artist": {
+            "name": "Explosions In The Sky"
+        }
+    },
+    {
+        "id": 70,
+        "name": "An Evening With Silk Sonic",
+        "yearOriginal": 2021,
+        "labelOriginal": "Aftermath Entertainment/Atlantic",
+        "year": null,
+        "label": null,
+        "artworkPath": "AnEveningWithSilkSonic.png",
+        "audioPath": "Skate-SilkSonic.mp3",
+        "artist": {
+            "name": "Silk Sonic"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Moanin’",
+        "yearOriginal": 1958,
+        "labelOriginal": "Blue Note",
+        "year": 2012,
+        "label": "Waxtime",
+        "artworkPath": "Moanin.png",
+        "audioPath": "Moanin-ArtBlakey.mp3",
+        "artist": {
+            "name": "Art Blakey \u0026 the Jazz Messengers"
+        }
+    },
+    {
+        "id": 33,
+        "name": "The Baddest Hubbard",
+        "yearOriginal": 1975,
+        "labelOriginal": "CTI",
+        "year": null,
+        "label": null,
+        "artworkPath": "TheBaddestHubbard.png",
+        "audioPath": "",
+        "artist": {
+            "name": "Freddie Hubbard"
+        }
+    },
+    {
+        "id": 37,
+        "name": "Monk’s Dream",
+        "yearOriginal": 1963,
+        "labelOriginal": "Columbia",
+        "year": 2018,
+        "label": "Waxtime",
+        "artworkPath": "MonksDream.png",
+        "audioPath": "",
+        "artist": {
+            "name": "Thelonious Monk"
+        }
+    },
+    {
+        "id": 50,
+        "name": "Breeze From the East",
+        "yearOriginal": 1964,
+        "labelOriginal": "Verve",
+        "year": null,
+        "label": null,
+        "artworkPath": "BreezeFromTheEast.png",
+        "audioPath": "",
+        "artist": {
+            "name": "Cal Trader"
+        }
+    },
+    {
+        "id": 59,
+        "name": "Raise!",
+        "yearOriginal": 1981,
+        "labelOriginal": "ARC/Columbia",
+        "year": null,
+        "label": null,
+        "artworkPath": "Raise.png",
+        "audioPath": "LetsGroove-EarthWindAndFire.png",
+        "artist": {
+            "name": "Earth Wind \u0026 Fire"
+        }
+    },
+    {
+        "id": 62,
+        "name": "Whitney Houston",
+        "yearOriginal": 1985,
+        "labelOriginal": "Arista",
+        "year": null,
+        "label": null,
+        "artworkPath": "WhitneyHouston.png",
+        "audioPath": "SavingAllMyLove-WhitneyHouston.mp3",
+        "artist": {
+            "name": "Whitney Houston"
+        }
+    },
+    {
+        "id": 69,
+        "name": "Madonna",
+        "yearOriginal": 1983,
+        "labelOriginal": "Sire",
+        "year": null,
+        "label": null,
+        "artworkPath": "Madonna.png",
+        "audioPath": "Borderline-Madonna.mp3",
+        "artist": {
+            "name": "Madonna"
+        }
+    },
+    {
+        "id": 77,
+        "name": "Music Of My Mind",
+        "yearOriginal": 1972,
+        "labelOriginal": "Tamla",
+        "year": null,
+        "label": null,
+        "artworkPath": "MusicOfMyMind.png",
+        "audioPath": "Superwoman-StevieWonder.mp3",
+        "artist": {
+            "name": "Stevie Wonder"
+        }
+    },
+    {
+        "id": 16,
+        "name": "Kind of Blue",
+        "yearOriginal": 1959,
+        "labelOriginal": "Columbia",
+        "year": 2010,
+        "label": null,
+        "artworkPath": "KindOfBlue.png",
+        "audioPath": "",
+        "artist": {
+            "name": "Miles Davis"
+        }
+    },
+    {
+        "id": 23,
+        "name": "Getz / Gilberto",
+        "yearOriginal": 1964,
+        "labelOriginal": "Verve",
+        "year": null,
+        "label": null,
+        "artworkPath": "GetzGilberto.png",
+        "audioPath": "GirlFromIpanema-Getz.mp3",
+        "artist": {
+            "name": "Stan Getz \u0026 Joao Gilberto"
+        }
+    },
+    {
+        "id": 35,
+        "name": "Antonio Carlos Jobim Plays",
+        "yearOriginal": 1963,
+        "labelOriginal": "Verve",
+        "year": 1967,
+        "label": null,
+        "artworkPath": "JobimPlays.png",
+        "audioPath": "",
+        "artist": {
+            "name": "Antonio Carlos Jobim"
+        }
+    },
+    {
+        "id": 44,
+        "name": "Hold-On",
+        "yearOriginal": 1977,
+        "labelOriginal": "United Artists Music and Records Group",
+        "year": null,
+        "label": null,
+        "artworkPath": "HoldOn.png",
+        "audioPath": "",
+        "artist": {
+            "name": "Noel Pointer"
+        }
+    },
+    {
+        "id": 14,
+        "name": "Giant Steps",
+        "yearOriginal": 1960,
+        "labelOriginal": "Atlantic",
+        "year": 2017,
+        "label": "DOL",
+        "artworkPath": "GiantSteps.png",
+        "audioPath": "",
+        "artist": {
+            "name": "John Coltrane"
+        }
+    },
+    {
+        "id": 27,
+        "name": "Maiden Voyage",
+        "yearOriginal": 1964,
+        "labelOriginal": "Blue Note",
+        "year": 2021,
+        "label": null,
+        "artworkPath": "MaidenVoyage.png",
+        "audioPath": "MaidenVoyage-HerbieHancock.mp3",
+        "artist": {
+            "name": "Herbie Hancock"
+        }
+    },
+    {
+        "id": 45,
+        "name": "Breakfast Wine",
+        "yearOriginal": 1985,
+        "labelOriginal": "PA USA",
+        "year": null,
+        "label": null,
+        "artworkPath": "BreakfastWine.png",
+        "audioPath": "",
+        "artist": {
+            "name": "Bobby Shew"
+        }
+    },
+    {
+        "id": 75,
+        "name": "VST \u0026 Company Vol. 1",
+        "yearOriginal": 0,
+        "labelOriginal": "Sunshine (The Manila Sound)",
+        "year": null,
+        "label": null,
+        "artworkPath": "VST\u0026CompanyVol1.png",
+        "audioPath": "Magsayawan-VST.mp3",
+        "artist": {
+            "name": "VST \u0026 Company"
+        }
+    },
+    {
+        "id": 15,
+        "name": "Traneing In",
+        "yearOriginal": 1958,
+        "labelOriginal": "Prestige",
+        "year": null,
+        "label": null,
+        "artworkPath": "TraneingIn.png",
+        "audioPath": "TraneingIn-Coltrane.mp3",
+        "artist": {
+            "name": "John Coltrane and the Red Garland Trio"
+        }
+    },
+    {
+        "id": 84,
+        "name": "Escape",
+        "yearOriginal": 1981,
+        "labelOriginal": "Columbia",
+        "year": null,
+        "label": null,
+        "artworkPath": "Escape.png",
+        "audioPath": "DontStopBelievin-Journey.mp3",
+        "artist": {
+            "name": "Journey"
+        }
+    },
+    {
+        "id": 87,
+        "name": "Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever",
+        "yearOriginal": 2001,
+        "labelOriginal": "Temporary Residence Limited",
+        "year": null,
+        "label": null,
+        "artworkPath": "ThoseWhoTellTheTruth.png",
+        "audioPath": "",
+        "artist": {
+            "name": "Explosions In The Sky"
+        }
+    },
+    {
+        "id": 3,
+        "name": "The George Benson Collection",
+        "yearOriginal": 1976,
+        "labelOriginal": "Warner Bros",
+        "year": 1981,
+        "label": null,
+        "artworkPath": "GeorgeBensonCollection.png",
+        "audioPath": "Breezin-GeorgeBenson.mp3",
+        "artist": {
+            "name": "George Benson"
+        }
+    },
+    {
+        "id": 78,
+        "name": "Lost In Love",
+        "yearOriginal": 1980,
+        "labelOriginal": "Arista",
+        "year": null,
+        "label": null,
+        "artworkPath": "LostInLove.png",
+        "audioPath": "",
+        "artist": {
+            "name": "Air Supply"
+        }
+    },
+    {
+        "id": 79,
+        "name": "The One That You Love",
+        "yearOriginal": 1981,
+        "labelOriginal": "Arista",
+        "year": null,
+        "label": null,
+        "artworkPath": "TheOneThatYouLove.png",
+        "audioPath": "",
+        "artist": {
+            "name": "Air Supply"
+        }
+    },
+    {
+        "id": 68,
+        "name": "Me And You",
+        "yearOriginal": 1981,
+        "labelOriginal": "Chi-Sound",
+        "year": null,
+        "label": null,
+        "artworkPath": "MeAndYou.png",
+        "audioPath": "OhGirl-ChiLites.mp3",
+        "artist": {
+            "name": "Chi-Lites"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Everybody Loves the Sunshine",
+        "yearOriginal": 1976,
+        "labelOriginal": "Polydor",
+        "year": null,
+        "label": null,
+        "artworkPath": "EverybodyLovesTheSunshine.png",
+        "audioPath": "EveryBodyLovesTheSunshine.mp3",
+        "artist": {
+            "name": "Roy Ayers"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Time Out",
+        "yearOriginal": 1959,
+        "labelOriginal": "Columbia",
+        "year": null,
+        "label": "Jazz Wax",
+        "artworkPath": "TimeOut.png",
+        "audioPath": "BlueRondo-DaveBrubeck.mp3",
+        "artist": {
+            "name": "Dave Brubeck Quartet"
+        }
+    },
+    {
+        "id": 19,
+        "name": "Dig It",
+        "yearOriginal": 0,
+        "labelOriginal": "",
+        "year": 2015,
+        "label": "Waxtime",
+        "artworkPath": "DigIt.png",
+        "audioPath": "SomedayMyPrince-BillEvans.mp3",
+        "artist": {
+            "name": "Bill Evans"
+        }
+    },
+    {
+        "id": 29,
+        "name": "Sunlight",
+        "yearOriginal": 1978,
+        "labelOriginal": "Columbia",
+        "year": null,
+        "label": null,
+        "artworkPath": "Sunlight.png",
+        "audioPath": "IThoughtItWasYou-HerbieHancock.mp3",
+        "artist": {
+            "name": "Herbie Hancock"
+        }
+    },
+    {
+        "id": 48,
+        "name": "Speak No Evil",
+        "yearOriginal": 1966,
+        "labelOriginal": "Blue Note",
+        "year": 2020,
+        "label": null,
+        "artworkPath": "SpeakNoEvil.png",
+        "audioPath": "",
+        "artist": {
+            "name": "Wayne Shorter"
+        }
+    },
+    {
+        "id": 55,
+        "name": "24k Magic",
+        "yearOriginal": 2016,
+        "labelOriginal": "Atlantic",
+        "year": null,
+        "label": null,
+        "artworkPath": "24kMagic.png",
+        "audioPath": "24KMagic-BrunoMars.mp3",
+        "artist": {
+            "name": "Bruno Mars"
+        }
+    },
+    {
+        "id": 60,
+        "name": "Sprit",
+        "yearOriginal": 1976,
+        "labelOriginal": "Columbia",
+        "year": null,
+        "label": null,
+        "artworkPath": "Spirit.png",
+        "audioPath": "EarthWindAndFire.png",
+        "artist": {
+            "name": "Earth Wind \u0026 Fire"
+        }
+    },
+    {
+        "id": 72,
+        "name": "Greatest Hits",
+        "yearOriginal": 1978,
+        "labelOriginal": "ABC",
+        "year": null,
+        "label": null,
+        "artworkPath": "GreatestHitsSteelyDan.png",
+        "audioPath": "Peg-SteelyDan.mp3",
+        "artist": {
+            "name": "Steely Dan"
+        }
+    },
+    {
+        "id": 73,
+        "name": "Puzzle People",
+        "yearOriginal": 1969,
+        "labelOriginal": "Gordy (Motown)",
+        "year": null,
+        "label": null,
+        "artworkPath": "PuzzlePeople.png",
+        "audioPath": "",
+        "artist": {
+            "name": "Temptations"
+        }
+    },
+    {
+        "id": 89,
+        "name": "Can’t Slow Down",
+        "yearOriginal": 1983,
+        "labelOriginal": "Motown",
+        "year": null,
+        "label": null,
+        "artworkPath": "CantSlowDown.png",
+        "audioPath": "AllNightLong-LionelRichie.mp3",
+        "artist": {
+            "name": "Lionel Richie"
+        }
+    }
+]
