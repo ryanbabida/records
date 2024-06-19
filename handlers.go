@@ -7,8 +7,8 @@ import (
 )
 
 type datastore interface {
-	GetAll() ([]Album, error)
-	GetById(id int) (*Album, error)
+	GetAll(searchText string) ([]Album, error)
+	GetById(id int) (Album, error)
 }
 
 type handlers struct {
@@ -22,8 +22,9 @@ func NewHandlers(config *Config, datastore datastore) *handlers {
 
 func (h *handlers) GetAll(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "application/json")
-
-	albums, err := h.datastore.GetAll()
+	query := r.URL.Query()
+	searchText := query.Get("searchText")
+	albums, err := h.datastore.GetAll(searchText)
 	if err != nil {
 		w.WriteHeader(http.StatusInternalServerError)
 		return
@@ -52,7 +53,8 @@ func (h *handlers) GetById(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	if album == nil {
+	empty := Album{}
+	if album == empty {
 		w.WriteHeader(http.StatusNotFound)
 		return
 	}
