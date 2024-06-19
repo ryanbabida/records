@@ -19,7 +19,7 @@ type Config struct {
 	AudioFilePath  *string `json:"audioFilePath"`
 }
 
-func NewConfig(filepath string) (*Config, error) {
+func NewConfig(filepath string, opts ...func(c *Config)) (*Config, error) {
 	configFile, err := os.Open(filepath)
 	if err != nil {
 		return nil, fmt.Errorf("failed to open config file at '%s': %w", filepath, err)
@@ -32,12 +32,16 @@ func NewConfig(filepath string) (*Config, error) {
 
 	filePath := defaultFilePath
 	port := defaultPort
-	cfg := Config{DataFilePath: &filePath, Port: &port}
+	cfg := &Config{DataFilePath: &filePath, Port: &port}
 
-	err = json.Unmarshal(b, &cfg)
+	err = json.Unmarshal(b, cfg)
 	if err != nil {
 		return nil, fmt.Errorf("failed to parse config file: %w", err)
 	}
 
-	return &cfg, nil
+	for _, o := range opts {
+		o(cfg)
+	}
+
+	return cfg, nil
 }
