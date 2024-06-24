@@ -18,7 +18,7 @@ type JsonStore struct {
 }
 
 func NewJsonStore(filepath string) (*JsonStore, error) {
-	recordsFile, err := os.Open("records.json")
+	recordsFile, err := os.Open(filepath)
 	if err != nil {
 		return nil, fmt.Errorf("failed to read records json file: %w", err)
 	}
