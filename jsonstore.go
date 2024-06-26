@@ -42,8 +42,7 @@ func (j *JsonStore) GetAll(searchText string) ([]Album, error) {
 	albums := make([]Album, len(j.albums))
 	copy(albums, j.albums)
 
-	s := strings.TrimSpace(searchText)
-	s = strings.ToLower(s)
+	s := strings.ToLower(strings.TrimSpace(searchText))
 
 	if s != "" {
 		albums = slices.DeleteFunc(albums, func(album Album) bool {

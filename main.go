@@ -20,11 +20,11 @@ func main() {
 		log.Fatalln(err)
 	}
 
-	h := NewHandlers(cfg, jsonStore)
+	h := NewHandlers(cfg, jsonStore, log.Default())
 	m := http.NewServeMux()
 
-	m.Handle("GET /{$}", http.HandlerFunc(h.GetAll))
-	m.Handle("GET /{id}", http.HandlerFunc(h.GetById))
+	m.Handle("GET /", WithMiddleware(h.GetAll, h.requestMiddleware, h.perfMiddleware, h.jsonMiddleware))
+	m.Handle("GET /{id}", WithMiddleware(h.GetById, h.requestMiddleware, h.perfMiddleware, h.jsonMiddleware))
 
 	log.Printf("Listening on port :%s\n", *cfg.Port)
 	if err = http.ListenAndServe(":"+*cfg.Port, m); err != nil {
