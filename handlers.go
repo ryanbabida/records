@@ -15,7 +15,6 @@ type key int
 
 const (
 	requestID key = iota
-	// ...
 )
 
 type datastore interface {
