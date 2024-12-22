@@ -15,7 +15,7 @@ const (
 
 type datastore interface {
 	GetAll(searchText string) ([]Album, error)
-	GetById(id int) (Album, error)
+	GetById(id int) (*Album, error)
 }
 
 type handlers struct {
@@ -60,8 +60,7 @@ func (h *handlers) GetById(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	empty := Album{}
-	if album == empty {
+	if album == nil {
 		w.WriteHeader(http.StatusNotFound)
 		return
 	}

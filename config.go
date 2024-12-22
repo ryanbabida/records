@@ -13,10 +13,10 @@ const (
 )
 
 type Config struct {
-	DataFilePath   *string `json:"dataFilePath"`
-	Port           *string `json:"port"`
-	ArtworkilePath *string `json:"artworkFilePath"`
-	AudioFilePath  *string `json:"audioFilePath"`
+	DataFilePath    *string `json:"dataFilePath"`
+	Port            *string `json:"port"`
+	ArtworkFilePath *string `json:"artworkFilePath"`
+	AudioFilePath   *string `json:"audioFilePath"`
 }
 
 func NewConfig(filepath string, opts ...func(c *Config)) (*Config, error) {

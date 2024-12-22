@@ -25,7 +25,7 @@ func NewJsonStore(filepath string) (*JsonStore, error) {
 
 	b, _ := io.ReadAll(recordsFile)
 
-	albums := []Album{}
+	var albums []Album
 	err = json.Unmarshal(b, &albums)
 	if err != nil {
 		fmt.Println(err)
@@ -62,15 +62,17 @@ func (j *JsonStore) GetAll(searchText string) ([]Album, error) {
 	return albums, nil
 }
 
-func (j *JsonStore) GetById(id int) (Album, error) {
+func (j *JsonStore) GetById(id int) (*Album, error) {
 	j.mu.Lock()
 	defer j.mu.Unlock()
 
+	var a Album
 	for _, album := range j.albums {
 		if album.Id == id {
-			return album, nil
+			a = album
+			return &a, nil
 		}
 	}
 
-	return Album{}, nil
+	return &a, nil
 }
