@@ -45,8 +45,6 @@ func (h *handlers) GetAll(w http.ResponseWriter, r *http.Request) {
 }
 
 func (h *handlers) GetById(w http.ResponseWriter, r *http.Request) {
-	w.Header().Set("Content-Type", "application/json")
-
 	id := r.PathValue("id")
 	idInt, err := strconv.Atoi(id)
 	if err != nil {
