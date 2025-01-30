@@ -28,7 +28,6 @@ func NewJsonStore(filepath string) (*JsonStore, error) {
 	var albums []Album
 	err = json.Unmarshal(b, &albums)
 	if err != nil {
-		fmt.Println(err)
 		return nil, fmt.Errorf("failed to parse records json file: %w", err)
 	}
 
